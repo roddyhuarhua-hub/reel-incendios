@@ -1,5 +1,7 @@
 # ¿A quién alcanza el fuego? · Del informe al reel
 
+> Parte de mi portafolio: **[roddyhuarhua-hub.github.io](https://roddyhuarhua-hub.github.io/)**. Proyecto trabajado en el curso [Data-Science-Python](https://github.com/d2cml-ai/Data-Science-Python) y movido a su propio repositorio con todo su historial.
+
 Sesión 15 · Del texto a tu voz · Data Science con Python · 24 de octubre de 2026 · Roddy Huarhua
 
 **Reel:** [`salidas/reel.mp4`](salidas/reel.mp4) (49 s, vertical 1080 × 1920) · **Posts:** [`salidas/posts.md`](salidas/posts.md) · **Láminas con la arquitectura del pipeline:** https://claude.ai/artifact/MnepkggQB52bbYSvcoCRV3
